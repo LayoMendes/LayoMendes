@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Layo Mendes
+# 👋 Olá, eu sou **Layo Mendes**
 
 Meu nome é **Layo Henrique da Silva Mendes**, atualmente estou cursando o 4° período de **Sistemas de Informação**.  
 Este é o meu perfil no GitHub com alguns projetos que estou desenvolvendo.
@@ -21,10 +21,12 @@ Este é o meu perfil no GitHub com alguns projetos que estou desenvolvendo.
 ---
 
 ### 📊 Estatísticas
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=LayoMendes&show_icons=true&theme=dark" />
 
-<p>
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=LayoMendes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img alt="Top Linguagens" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayoMendes&theme=tokyonight&layout=compact&langs_count=9" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayoMendes&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -34,10 +36,3 @@ Este é o meu perfil no GitHub com alguns projetos que estou desenvolvendo.
 - LinkedIn: [https://br.linkedin.com/in/layo-mendes-0319a6263](https://br.linkedin.com/in/layo-mendes-0319a6263)
 - E-mail: layohenrique33@gmail.com  
 
----
-
-### Meus Objetivos:
-
-- Aprimorar minhas habilidades em **React Native** e **JavaScript/TypeScript**  
-- Criar projetos que possam ser usados em portfólio profissional  
-- Colaborar em projetos Open Source e aprender boas práticas de desenvolvimento
