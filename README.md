@@ -1,38 +1,37 @@
-# 👋 Olá, eu sou **Layo Mendes**
+<div style="background: linear-gradient(135deg, #555555, #000000); padding: 20px; border-radius: 15px; display: inline-block; text-align: center; color: #ffffff; max-width: 800px;">
 
-Meu nome é **Layo Henrique da Silva Mendes**, atualmente estou cursando o 4° período de **Sistemas de Informação**.  
-Este é o meu perfil no GitHub com alguns projetos que estou desenvolvendo.
+  # 👋 Olá, eu sou **Layo Mendes**
 
----
+  Meu nome é **Layo Henrique da Silva Mendes**, atualmente estou cursando o 4° período de **Sistemas de Informação**.  
+  Este é o meu perfil no GitHub com alguns projetos que estou desenvolvendo.
 
-### 💻 Linguagens e Tecnologias
+  <hr style="border-color: #888;" />
 
-<p>
-  <img alt="Docker" title="Docker" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" title="TypeScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  ### 💻 Linguagens e Tecnologias
+
+  <p>
+    <img alt="Docker" title="Docker" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img alt="JavaScript" title="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img alt="TypeScript" title="TypeScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img alt="Python" title="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img alt="React" title="React" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img alt="Tailwind" title="Tailwind" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    <img alt="Git" title="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  </p>
 
-  <img alt="React" title="React" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Tailwind" title="Tailwind" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img alt="Git" title="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</p>
+  <hr style="border-color: #888;" />
 
----
-
-### 📊 Estatísticas
+  ### 📊 Estatísticas
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LayoMendes&show_icons=true&theme=dark" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayoMendes&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LayoMendes&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayoMendes&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-### Contato:
+  <hr style="border-color: #888;" />
 
-- LinkedIn: [https://br.linkedin.com/in/layo-mendes-0319a6263](https://br.linkedin.com/in/layo-mendes-0319a6263)
-- E-mail: layohenrique33@gmail.com  
+  ### Contato:
+  - LinkedIn: [https://br.linkedin.com/in/layo-mendes-0319a6263](https://br.linkedin.com/in/layo-mendes-0319a6263)
+  - E-mail: layohenrique33@gmail.com
 
+</div>
