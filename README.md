@@ -5,7 +5,22 @@
   Meu nome é **Layo Henrique da Silva Mendes**, atualmente estou cursando o 4° período de **Sistemas de Informação**.  
   Este é o meu perfil no GitHub com alguns projetos que estou desenvolvendo.
 
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlxNHh6d3kzdmZxcjl3N3Y0dWwyd2JvMzE3dDNqaDI1NWhwN25waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="150">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlxNHh6d3kzdmZxcjl3N3Y0dWwyd2JvMzE3dDNqaDI1NWhwN25waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="150">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlxNHh6d3kzdmZxcjl3N3Y0dWwyd2JvMzE3dDNqaDI1NWhwN25waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="150">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlxNHh6d3kzdmZxcjl3N3Y0dWwyd2JvMzE3dDNqaDI1NWhwN25waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="150">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlxNHh6d3kzdmZxcjl3N3Y0dWwyd2JvMzE3dDNqaDI1NWhwN25waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="150">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlxNHh6d3kzdmZxcjl3N3Y0dWwyd2JvMzE3dDNqaDI1NWhwN25waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="150">
+
+</div>
+
   <hr style="border-color: #888;" />
+
+
+
+  
 
   ### 💻 Linguagens e Tecnologias
 
@@ -33,5 +48,15 @@
   ### Contato:
   - LinkedIn: [https://br.linkedin.com/in/layo-mendes-0319a6263](https://br.linkedin.com/in/layo-mendes-0319a6263)
   - E-mail: layohenrique33@gmail.com
+
+  <div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlxNHh6d3kzdmZxcjl3N3Y0dWwyd2JvMzE3dDNqaDI1NWhwN25waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="150">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlxNHh6d3kzdmZxcjl3N3Y0dWwyd2JvMzE3dDNqaDI1NWhwN25waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="150">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlxNHh6d3kzdmZxcjl3N3Y0dWwyd2JvMzE3dDNqaDI1NWhwN25waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="150">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlxNHh6d3kzdmZxcjl3N3Y0dWwyd2JvMzE3dDNqaDI1NWhwN25waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="150">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlxNHh6d3kzdmZxcjl3N3Y0dWwyd2JvMzE3dDNqaDI1NWhwN25waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="150">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlxNHh6d3kzdmZxcjl3N3Y0dWwyd2JvMzE3dDNqaDI1NWhwN25waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="150">
+
+</div>
 
 </div>
