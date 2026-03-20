@@ -2,7 +2,7 @@
 
   # 👋 Olá, eu sou **Layo Mendes**
 
-  Meu nome é **Layo Henrique da Silva Mendes**, atualmente estou cursando o 4° período de **Sistemas de Informação** e sou desenvolvedor junior na empresa JR AgroSolutions.  
+  Meu nome é **Layo Henrique da Silva Mendes**, atualmente estou cursando o 5° período de **Sistemas de Informação** e sou desenvolvedor junior na empresa JR AgroSolutions.  
   Este é o meu perfil no GitHub com alguns projetos que estou desenvolvendo.
 
 
